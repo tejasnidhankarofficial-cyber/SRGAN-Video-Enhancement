@@ -1,4 +1,5 @@
 # SRGAN Video Super-Resolution
+Note: I implemented this in my Bachelor's of Engineering in Artificial Intelligence & Machine Learning
 
 A Python/TensorFlow implementation that applies **Super-Resolution Generative Adversarial Networks (SRGAN)** to video files, upscaling each frame and reconstructing a high-resolution output video.
 
